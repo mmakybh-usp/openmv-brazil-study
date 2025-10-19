@@ -1,0 +1,5 @@
+﻿operação;fps_médio
+captura_rgb;40
+captura_gray;40
+filtro_canny;25
+filtro_gauss;30
