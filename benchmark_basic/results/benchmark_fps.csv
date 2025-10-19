@@ -1,5 +1,6 @@
 ﻿operacao;fps_medio
 captura_rgb;40
 captura_gray;40
-filtro_canny;25
-filtro_gauss;30
+filtro_simple;40
+filtro_canny;40
+filtro_gauss;39
